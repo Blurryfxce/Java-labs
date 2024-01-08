@@ -1,2 +1,8 @@
-# Java-labs
-Лабораторні роботи з КПЗ Java
+# Лабораторні роботи з Конструювання програмного забезпечення (JAVA)
+### [Лабораторна 1](https://github.com/Blurryfxce/JAVA-lab-1)
+### [Лабораторна 2](https://github.com/Blurryfxce/lab-2)
+### [Лабораторна 3](https://github.com/Blurryfxce/JAVA-lab-3)
+### [Лабораторна 4.1](https://github.com/Blurryfxce/JAVA-lab-4.1)
+### [Лабораторна 5](https://github.com/Blurryfxce/lab-5)
+### [Лабораторна 6](https://github.com/Blurryfxce/lab-6)
+### [Лабораторна 7](https://github.com/Blurryfxce/lab-7)
